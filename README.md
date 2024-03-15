@@ -14,3 +14,5 @@ How to use:
 1. Compile the project
 2. Put the Demo1 and Demo2 in the plugin folder of the App (created in the first run)
 3. Run the App
+
+SAFETY: The plugin architecture by definition is a RemoteCodeExecution, be careful
